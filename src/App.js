@@ -45,7 +45,7 @@ function App() {
                     icon="fa-facebook" 
                   />
                   <div>
-                  <a href="privacy-policy.pdf">Privacy Policy</a>
+                  <a href="privacy-policy.html">Privacy Policy</a>
                   </div>
               </React.Fragment>
             }
