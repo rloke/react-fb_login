@@ -1,5 +1,11 @@
+.container {
+  margin: 20px;
+}
 .card-text form {
   width: 250px;
+}
+nav a {
+  margin: 20px 10px;
 }
 
 
