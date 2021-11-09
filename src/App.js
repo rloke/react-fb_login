@@ -98,8 +98,8 @@ function Nav() {
   return (
     <Router>
       <nav>
-      <Link to="./">Login</Link>
-      <Link to="./policy">Privacy Policy</Link>
+      <Link className="btn btn-primary" to="./">Login</Link>
+      <Link className="btn btn-warning" to="./policy">Privacy Policy</Link>
       </nav>
 
       <Routes>
